@@ -1,6 +1,8 @@
 ## crypto-webparts
 
-A webpart displaying information about Bitcoin using external api and SPFx with a react framework
+A webpart displaying information about Bitcoin using external api and SPFx with a react framework.
+
+External API: https://coinmarketcap.com/api/
 
 ### Building the code
 
