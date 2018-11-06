@@ -1,6 +1,6 @@
 ## crypto-webparts
 
-This is where you include your WebPart documentation.
+A webpart displaying information about Bitcoin using external api and SPFx with a react framework
 
 ### Building the code
 
