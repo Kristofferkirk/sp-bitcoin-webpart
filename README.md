@@ -5,6 +5,8 @@ A webpart displaying information about Bitcoin using external api and SPFx with 
 External API: https://coinmarketcap.com/api/
 
 Current API will be licensed with an account on Coinmarketcap on December 4th 2018. Webpart will be updated before then to deal with the changes.
+Carefully read the terms of the API before use.
+https://coinmarketcap.com/api/terms/
 
 ### Building the code
 
