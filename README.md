@@ -1,4 +1,4 @@
-## crypto-webparts
+## Sharepoint Bitcoin Webpart
 
 A webpart displaying information about Bitcoin using external api and SPFx with a react framework.
 
