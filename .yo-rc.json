@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "crypto-webparts",
+    "libraryId": "9de70467-1fa7-4882-a248-6d73cb833582",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "crypto-webpart-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/cryptoWebpart/CryptoWebpartWebPart.js",
+          "manifest": "./src/webparts/cryptoWebpart/CryptoWebpartWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "CryptoWebpartWebPartStrings": "lib/webparts/cryptoWebpart/loc/{locale}.js"
+  }
+}
